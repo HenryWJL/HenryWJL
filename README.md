@@ -11,7 +11,8 @@
 - Target detection
 - Localization
 
-✉️ **Contact with me:** 12112921@mail.sustech.edu.cn
+✉️ **Contact with me:**
+- 12112921@mail.sustech.edu.cn
 
 ### ‍✈️ Github Overview:
 
