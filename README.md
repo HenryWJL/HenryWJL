@@ -11,6 +11,7 @@
 
 ✉️ **Contact me:**
 - 12112921@mail.sustech.edu.cn
+- wangjunlin131@gmail.com
 
 ### ‍✈️ Github Overview:
  
