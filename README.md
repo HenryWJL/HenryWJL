@@ -1,6 +1,6 @@
 ### Hi ✋, I'm Junlin Wang! 
 
-⭐ I'm a junior student in [SDIM](https://sdim.sustech.edu.cn/) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), supervised by Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao). I'm interested in machine learning and robotic manipulation, and I'm currently doing research on vision-based robotic grasping.
+⭐ I'm a junior-year student in [SDIM](https://sdim.sustech.edu.cn/) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), advised by Dr. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao). I'm interested in machine learning and robotic manipulation, and I'm currently doing research on vision-based robotic grasping.
 
 ⛪ **Laboratory:**
 -  Autonomous and Multi-Agent Systems Laboratory (2022.9 - present)
