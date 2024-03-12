@@ -7,7 +7,7 @@
 
 ⛽ **Research Topics**
 - Fiducial markers
-- 7-DoF grasp detection
+- Deep learning for 7-DoF grasps detection
 - Imitation learning for manipulation
 
 ✉️ **Contact**
