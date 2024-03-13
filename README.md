@@ -16,9 +16,3 @@
 ✉️ **Contact**
 - 12112921 at mail dot sustech dot edu dot cn
 - wangjunlin131 at gmail dot com
-
-### ‍✈️ Github Overview:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryWJL&layout=compact)](https://github.com/HenryWJL/github-readme-stats)
-
-
-
