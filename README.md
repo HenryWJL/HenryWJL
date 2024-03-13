@@ -11,7 +11,7 @@
 - Imitation learning for manipulation
 
 🌐 **Personal Website**
-[https://henrywjl.github.io](https://henrywjl.github.io)
+- [https://henrywjl.github.io](https://henrywjl.github.io)
 
 ✉️ **Contact**
 - 12112921 at mail dot sustech dot edu dot cn
