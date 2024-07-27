@@ -1,14 +1,15 @@
 ### Hi there! ✋
 
-⭐ I am an undergraduate student majoring in [Automation](https://sdim.sustech.edu.cn/) at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), supervised by Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao). I am interested in robot learning for manipulation, and my current research focus is on vision-based robotic grasping and imitation learning for manipulation.
+⭐ I am an undergraduate in the School of System Design and Intelligent Manufacturing ([SDIM](https://sdim.sustech.edu.cn/)) at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), advised by Prof. [Max Q.-H. Meng](https://scholar.google.ca/citations?user=DxDCU7AAAAAJ&hl=en) and Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao).
 
-⛪ **Lab**
--  Autonomous and Multi-Agent Systems (AMAS) Lab (2022.9 - present)
+⛪ **Labs**
+-  Autonomous and Multi-Agent Systems (AMAS) Lab (2022.9 - Present)
+-  Artificial Intelligence Research Lab (2024.6 - Present)
 
 📝 **Prior Research Topics**
-- Fiducial markers
-- Deep learning for 7-DoF grasp detection
-- Imitation learning for manipulation
+- Fiducial Markers.
+- Grasp Pose Detection.
+- Imitation learning (Behavior Cloning).
 
 🌐 **Personal Website**
 - [https://henrywjl.github.io](https://henrywjl.github.io)
