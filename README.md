@@ -18,5 +18,4 @@
 - [https://henrywjl.github.io](https://henrywjl.github.io)
 
 ✉️ **Contact**
-- 12112921 at mail dot sustech dot edu dot cn
-- wangjunlin131 at gmail dot com
+- 12112921 [at] mail [dot] sustech [dot] edu [dot] cn
