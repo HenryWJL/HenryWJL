@@ -7,11 +7,12 @@
 -  LinS Lab (2024.6 - Present)
 
 📝 **Prior and Current Research Topics**
-- Fiducial Markers.
-- Grasp Pose Detection.
-- Imitation learning (Behavior Cloning).
-- Reinforcement Learning.
-- Dexterous Grasping.
+- Fiducial Markers
+- Grasp Pose Detection
+- Reinforcement Learning
+- Dexterous Grasping
+- Learning from Demonstrations (LfD)
+- Cross-Embodiment Learning
 
 🌐 **Personal Website**
 - [https://henrywjl.github.io](https://henrywjl.github.io)
