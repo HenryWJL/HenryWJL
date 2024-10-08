@@ -1,10 +1,11 @@
 ### Hi there! ✋
 
-⭐ I am an undergraduate in the School of System Design and Intelligent Manufacturing ([SDIM](https://sdim.sustech.edu.cn/)) at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), advised by Prof. [Max Q.-H. Meng](https://scholar.google.ca/citations?user=DxDCU7AAAAAJ&hl=en) and Prof. [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao).
+⭐ I am an undergraduate in the School of System Design and Intelligent Manufacturing ([SDIM](https://sdim.sustech.edu.cn/)) at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), where I am advised by Professors [Max Q.-H. Meng](https://scholar.google.ca/citations?user=DxDCU7AAAAAJ&hl=en) and [Zhiyun Lin](https://scholar.google.com/citations?user=ic9y2dIAAAAJ&hl=zh-CN&oi=ao).
 
 ⛪ **Labs**
 -  Autonomous and Multi-Agent Systems (AMAS) Lab (2022.9 - Present)
--  LinS Lab (2024.6 - Present)
+-  LinS Lab (2024.6 - 2024.9)
+-  BionicDL Lab (2024.9 - Present)
 
 📝 **Prior and Current Research Topics**
 - Fiducial Markers
